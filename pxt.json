@@ -1,6 +1,6 @@
 {
   "name": "AY-3-8910 Control",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Rozšírenie pre ovládanie zvukového procesora AY-3-8910 cez Micro:bit.",
   "files": [
     "main.ts",
@@ -8,9 +8,7 @@
     "custom.ts",
     "icon.png"
   ],
-  "dependencies": {
-    "microbit_ay_3_8910": "https://github.com/programatorovic/microbit_ay_3_8910.git"
-  },
+  "dependencies": {},
   "supportedTargets": [
     "microbit"
   ]
